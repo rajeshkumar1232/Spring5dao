@@ -17,6 +17,9 @@ Using database
 spring-orm-5.2.1.RELEASE.jar 
 spring-tx-5.2.1.RELEASE.jar 
 
+Database Driver
+mysql-connector-java-8.0.30.jar
+
 Using Web 
 MVC spring-web-5.2.1.RELEASE.jar 
 spring-webmvc-5.2.1.RELEASE.jar
